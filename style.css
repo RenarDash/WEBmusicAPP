@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading  {
+    font-size: 35px;
+    padding: 15px;
+    color:black;
+    font-weight: bold;
+    width: 100%;
+    top:0;
+    position: fixed;
+    margin:0px;
+}
+
+.note{
+    color: blue;
+font-size: 20px;
+font-weight: lighter;
+}
+
+canvas{
+    box-shadow: 5px 10px 15px greenyellow;
+    border:solid 10px green;
+    padding: 10px;
+    margin: 20px;
+}
